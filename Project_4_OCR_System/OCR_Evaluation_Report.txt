@@ -1,0 +1,47 @@
+
+DECODELABS PROJECT 4
+OCR SYSTEM EVALUATION REPORT
+=====================================
+
+1. IMAGE INFORMATION
+
+Original image dimensions: (720, 1052)
+
+2. OCR PROCESSING TECHNIQUES
+
+- Grayscale conversion
+- Image resizing
+- Adaptive thresholding
+- Tesseract OCR
+- Bounding box detection
+
+3. OCR PERFORMANCE
+
+Average OCR Confidence: 93.64%
+
+Total Detected Words: 308
+
+Accepted Words (80% confidence): 300
+
+4. ACCURACY EVALUATION
+
+Word Accuracy: -3737.50%
+
+Character Accuracy: -4975.00%
+
+5. BEST OCR CONFIGURATION
+
+Configuration: PSM 6
+
+Word Accuracy: -3500.0%
+
+Character Accuracy: -4930.0%
+
+6. CONCLUSION
+
+The OCR system was evaluated using a real-world image.
+Different Tesseract page segmentation modes were compared
+to identify the most suitable configuration.
+
+=====================================
+END OF REPORT

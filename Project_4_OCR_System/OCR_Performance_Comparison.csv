@@ -1,0 +1,4 @@
+Configuration,Word Error Rate (%),Character Error Rate (%),Word Accuracy (%),Character Accuracy (%)
+PSM 3,3625.0,5035.0,-3525.0,-4935.0
+PSM 6,3600.0,5030.0,-3500.0,-4930.0
+PSM 11,3837.5,5075.0,-3737.5,-4975.0
